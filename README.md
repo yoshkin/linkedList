@@ -1,4 +1,4 @@
-# reversedlinkedList
+# reversedLinkedList
 
 ```js
 import Node from './node';
